@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Darengheil/RESTAPIwithexpress#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
